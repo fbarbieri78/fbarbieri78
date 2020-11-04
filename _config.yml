@@ -1,0 +1,3 @@
+name: Fabio Barbieri, Horrible Cop
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
